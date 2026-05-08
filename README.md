@@ -59,5 +59,5 @@ Repeats Branch B with ±15% artificial bias on the Highland σ. A ±15% input bi
 ## Notes
 
 - The Pb cylinder is partially unresolved at 60k events/momentum due to Cu volume dominance — this is a known physics limitation, not a code bug.
-- All parameters are set in `config.py`. Do not edit `simulate.py` unless modifying the physics engine.
+- All parameters are set in `parameters.py`. Do not edit `simulate.py` unless modifying the physics engine.
   
